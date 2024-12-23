@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://galaxyverse-wiki-html.github.io/sitemap_index.xml
