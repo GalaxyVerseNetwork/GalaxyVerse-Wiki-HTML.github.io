@@ -9,636 +9,654 @@
             "title//",
             [
                 0,
-                0.875
+                1.094
             ]
         ],
         [
             "text//",
             [
                 0,
-                1.429,
+                1.634,
                 1,
-                1.799,
+                1.912,
                 2,
-                0.963,
+                1.213,
                 3,
-                1.564,
+                1.801,
                 4,
-                1.799,
+                1.912,
                 5,
-                1.136,
+                1.278,
                 6,
-                1.799,
+                1.912,
                 7,
-                1.136,
+                1.278,
                 8,
-                1.799,
+                1.912,
                 9,
-                1.799,
+                1.912,
                 10,
-                1.799,
+                1.912,
                 11,
-                0.699,
+                0.86,
                 12,
-                1.799,
+                1.912,
                 13,
-                0.699,
+                0.86,
                 14,
-                1.429,
+                1.634,
                 15,
-                1.799,
+                1.912,
                 16,
-                1.799,
+                1.912,
                 17,
-                1.799,
+                1.912,
                 18,
-                1.799,
+                1.912,
                 19,
-                1.799,
+                1.912,
                 20,
-                1.799,
+                1.912,
                 21,
-                0.699,
+                0.86,
                 22,
-                1.799,
+                1.912,
                 23,
-                1.799,
+                1.912,
                 24,
-                1.136,
+                1.278,
                 25,
-                1.136,
+                1.278,
                 26,
-                1.799,
+                1.912,
                 27,
-                1.136,
+                1.278,
                 28,
-                1.799,
+                1.912,
                 29,
-                1.799,
+                1.912,
                 30,
-                1.799,
+                1.912,
                 31,
-                1.799,
+                1.912,
                 32,
-                1.799
+                1.912
+            ]
+        ],
+        [
+            "title//documentation/minecraft-changelog/v1-0-release/",
+            [
+                33,
+                0.797,
+                34,
+                0.797
+            ]
+        ],
+        [
+            "text//documentation/minecraft-changelog/v1-0-release/",
+            [
+                33,
+                1.711,
+                34,
+                1.711
             ]
         ],
         [
             "title//documentation/skyblock/minions/",
             [
-                33,
-                0.539
+                35,
+                0.736
             ]
         ],
         [
             "text//documentation/skyblock/minions/",
             [
                 2,
-                0.338,
+                0.387,
                 3,
-                0.549,
+                0.575,
                 11,
-                0.873,
+                1.074,
                 13,
-                0.646,
+                0.77,
                 14,
-                0.549,
+                0.575,
                 21,
-                0.338,
+                0.387,
                 24,
-                1.358,
+                1.52,
                 25,
-                0.549,
+                0.575,
                 27,
-                0.549,
-                33,
-                0.729,
-                34,
-                1.353,
+                0.575,
                 35,
-                0.869,
+                0.879,
                 36,
-                0.869,
+                1.372,
                 37,
-                1.049,
+                0.86,
                 38,
-                1.353,
+                0.86,
                 39,
-                0.854,
+                1.144,
                 40,
-                0.854,
+                1.372,
                 41,
-                0.869,
+                0.917,
                 42,
-                0.869,
+                0.917,
                 43,
-                0.869,
+                0.86,
                 44,
-                0.869,
+                0.86,
                 45,
-                0.869,
+                0.86,
                 46,
-                0.869,
+                0.86,
                 47,
-                0.869,
+                0.86,
                 48,
-                0.869,
+                0.86,
                 49,
-                0.549,
+                0.86,
                 50,
-                0.549,
+                0.86,
                 51,
-                0.869,
+                0.575,
                 52,
-                0.869,
+                0.575,
                 53,
-                1.353,
+                0.86,
                 54,
-                0.869,
+                0.86,
                 55,
-                0.869,
+                1.372,
                 56,
-                0.869,
+                0.86,
                 57,
-                0.869,
+                0.86,
                 58,
-                0.869,
+                0.86,
                 59,
-                1.353,
+                0.86,
                 60,
-                0.869,
+                0.86,
                 61,
-                0.869,
+                1.372,
                 62,
-                0.869,
+                0.86,
                 63,
-                0.549,
+                0.86,
                 64,
-                0.869,
+                0.86,
                 65,
-                0.869,
+                0.575,
                 66,
-                0.869,
+                0.86,
                 67,
-                0.869,
+                0.86,
                 68,
-                0.869,
+                0.86,
                 69,
-                0.869,
+                0.86,
                 70,
-                0.869,
+                0.86,
                 71,
-                0.526,
+                0.86,
                 72,
-                0.869,
+                0.86,
                 73,
-                0.869,
+                0.617,
                 74,
-                0.869,
+                0.86,
                 75,
-                0.869,
+                0.86,
                 76,
-                0.854,
+                0.86,
                 77,
-                1.353,
+                0.86,
                 78,
-                0.869,
+                0.917,
                 79,
-                0.869,
+                1.372,
                 80,
-                0.549,
+                0.86,
                 81,
-                0.869,
+                0.86,
                 82,
-                0.549,
+                0.575,
                 83,
-                0.869,
+                0.86,
                 84,
-                0.869,
+                0.575,
                 85,
-                0.869,
+                0.86,
                 86,
-                0.869,
+                0.86,
                 87,
-                0.869,
+                0.86,
                 88,
-                1.353,
+                0.86,
                 89,
-                0.869,
+                0.86,
                 90,
-                0.869,
+                1.372,
                 91,
-                0.869,
+                0.86,
                 92,
-                0.869,
+                0.86,
                 93,
-                0.869,
+                0.86,
                 94,
-                0.869,
+                0.86,
                 95,
-                0.869,
+                0.86,
                 96,
-                0.869,
+                0.86,
                 97,
-                0.549,
+                0.86,
                 98,
-                0.869,
+                0.86,
                 99,
-                0.869,
+                0.575,
                 100,
-                1.661,
+                0.86,
                 101,
-                1.353,
+                0.86,
                 102,
-                1.353,
+                1.712,
                 103,
-                1.874,
+                1.372,
                 104,
-                1.661,
+                1.372,
                 105,
-                1.661,
+                1.953,
                 106,
-                0.869,
+                1.712,
                 107,
-                1.353,
+                1.712,
                 108,
-                1.874,
+                0.86,
                 109,
-                0.869,
+                1.372,
                 110,
-                0.869,
+                1.953,
                 111,
-                0.869,
+                0.86,
                 112,
-                0.869,
+                0.86,
                 113,
-                0.869,
+                0.86,
                 114,
-                0.869,
+                0.86,
                 115,
-                0.869,
+                0.86,
                 116,
-                1.353,
+                0.86,
                 117,
-                1.353,
+                0.86,
                 118,
-                1.353,
+                1.372,
                 119,
-                1.353,
+                1.372,
                 120,
-                1.353,
+                1.372,
                 121,
-                1.353,
+                1.372,
                 122,
-                1.353,
+                1.372,
                 123,
-                0.869,
+                1.372,
                 124,
-                0.869,
+                1.372,
                 125,
-                0.869,
+                0.86,
                 126,
-                0.869,
+                0.86,
                 127,
-                0.869,
+                0.86,
                 128,
-                0.869,
+                0.86,
                 129,
-                1.358,
+                0.86,
                 130,
-                1.874,
+                0.86,
                 131,
-                0.869,
+                1.52,
                 132,
-                0.869,
+                1.953,
                 133,
-                0.869,
+                0.86,
                 134,
-                0.869,
+                0.86,
                 135,
-                0.869,
+                0.86,
                 136,
-                0.869,
+                0.86,
                 137,
-                0.869,
+                0.86,
                 138,
-                0.869,
+                0.86,
                 139,
-                0.869,
+                0.86,
                 140,
-                1.353,
+                0.86,
                 141,
-                1.353,
+                0.86,
                 142,
-                0.869,
+                1.372,
                 143,
-                0.869,
+                1.372,
                 144,
-                1.353,
+                0.86,
                 145,
-                0.869,
+                0.86,
                 146,
-                1.353,
+                1.372,
                 147,
-                0.869,
+                0.86,
                 148,
-                0.869,
+                1.372,
                 149,
-                0.869,
+                0.86,
                 150,
-                0.869,
+                0.86,
                 151,
-                0.869,
+                0.86,
                 152,
-                0.869,
+                0.86,
                 153,
-                0.869,
+                0.86,
                 154,
-                0.869,
+                0.86,
                 155,
-                0.869,
+                0.86,
                 156,
-                0.869,
+                0.86,
                 157,
-                0.869,
+                0.86,
                 158,
-                0.869,
+                0.86,
                 159,
-                0.869,
+                0.86,
                 160,
-                0.869,
+                0.86,
                 161,
-                0.869,
+                0.86,
                 162,
-                0.869,
+                0.86,
                 163,
-                0.869,
+                0.86,
                 164,
-                0.869,
+                0.86,
                 165,
-                0.869,
+                0.86,
                 166,
-                0.869,
+                0.86,
                 167,
-                0.869,
+                0.86,
                 168,
-                0.869,
+                0.86,
                 169,
-                0.869,
+                0.86,
                 170,
-                0.869,
+                0.86,
                 171,
-                0.869,
+                0.86,
                 172,
-                0.869,
+                0.86,
                 173,
-                0.869,
+                0.86,
                 174,
-                0.869,
+                0.86,
                 175,
-                0.869,
+                0.86,
                 176,
-                0.869,
+                0.86,
                 177,
-                0.869,
+                0.86,
                 178,
-                0.869,
+                0.86,
                 179,
-                0.869
+                0.86,
+                180,
+                0.86,
+                181,
+                0.86
             ]
         ],
         [
             "title//documentation/skyblock/generatoren/",
             [
-                180,
-                0.875
+                182,
+                1.094
             ]
         ],
         [
             "text//documentation/skyblock/generatoren/",
             [
                 2,
-                0.69,
+                0.829,
                 5,
-                0.611,
+                0.644,
                 7,
-                0.611,
+                0.644,
                 11,
-                0.69,
+                0.829,
                 13,
-                0.376,
+                0.434,
                 21,
-                0.376,
-                33,
-                0.376,
-                37,
-                0.611,
+                0.434,
+                35,
+                0.434,
                 39,
-                1.473,
-                40,
-                0.611,
-                49,
-                0.611,
-                50,
-                0.927,
-                63,
-                0.611,
-                76,
-                0.611,
-                80,
-                0.927,
+                0.644,
+                41,
+                1.666,
+                42,
+                0.644,
+                51,
+                0.644,
+                52,
+                1.003,
+                65,
+                0.644,
+                78,
+                0.644,
                 82,
-                0.611,
-                97,
-                0.611,
-                129,
-                1.417,
-                180,
-                1.346,
-                181,
-                0.967,
+                1.003,
+                84,
+                0.644,
+                99,
+                0.644,
+                131,
+                1.596,
                 182,
-                0.967,
+                1.507,
                 183,
-                1.775,
+                0.964,
                 184,
-                0.967,
+                0.964,
                 185,
-                0.967,
+                1.843,
                 186,
-                2.586,
+                0.964,
                 187,
-                2.403,
+                0.964,
                 188,
-                2.403,
+                2.802,
                 189,
-                0.967,
+                2.578,
                 190,
-                0.967,
+                2.578,
                 191,
-                0.967,
+                0.964,
                 192,
-                0.967,
+                0.964,
                 193,
-                0.967,
+                0.964,
                 194,
-                0.967,
+                0.964,
                 195,
-                0.967,
+                0.964,
                 196,
-                0.967,
+                0.964,
                 197,
-                0.967,
+                0.964,
                 198,
-                0.967,
+                0.964,
                 199,
-                0.967,
+                0.964,
                 200,
-                0.967,
+                0.964,
                 201,
-                0.967,
+                0.964,
                 202,
-                0.967,
+                0.964,
                 203,
-                0.967,
+                0.964,
                 204,
-                0.967,
+                0.964,
                 205,
-                0.967,
+                0.964,
                 206,
-                0.967,
+                0.964,
                 207,
-                0.967,
+                0.964,
                 208,
-                0.967,
+                0.964,
                 209,
-                0.967,
+                0.964,
                 210,
-                0.967,
+                0.964,
                 211,
-                0.967,
+                0.964,
                 212,
-                0.967,
+                0.964,
                 213,
-                0.967,
+                0.964,
                 214,
-                0.967,
+                0.964,
                 215,
-                1.982,
+                0.964,
                 216,
-                0.967,
+                0.964,
                 217,
-                0.967,
+                2.081,
                 218,
-                0.967,
+                0.964,
                 219,
-                0.967,
+                0.964,
                 220,
-                0.967,
+                0.964,
                 221,
-                0.967,
+                0.964,
                 222,
-                0.967,
+                0.964,
                 223,
-                0.967,
+                0.964,
                 224,
-                0.967,
+                0.964,
                 225,
-                0.967,
+                0.964,
                 226,
-                0.967,
+                0.964,
                 227,
-                0.967,
+                0.964,
                 228,
-                0.967,
+                0.964,
                 229,
-                0.967,
+                0.964,
                 230,
-                1.982,
+                0.964,
                 231,
-                1.468,
+                0.964,
                 232,
-                0.967,
+                2.081,
                 233,
-                2.244,
+                1.501,
                 234,
-                2.131,
+                0.964,
                 235,
-                1.775,
+                2.388,
                 236,
-                1.775,
+                2.255,
                 237,
-                1.775,
+                1.843,
                 238,
-                1.468,
+                1.843,
                 239,
-                0.967,
+                1.843,
                 240,
-                1.468,
+                1.501,
                 241,
-                0.967,
+                0.964,
                 242,
-                1.468,
+                1.501,
                 243,
-                1.468,
+                0.964,
                 244,
-                0.967,
+                1.501,
                 245,
-                0.967,
+                1.501,
                 246,
-                2.332,
+                0.964,
                 247,
-                0.967,
+                0.964,
                 248,
-                0.967,
+                2.493,
                 249,
-                1.775,
+                0.964,
                 250,
-                1.775,
+                0.964,
                 251,
-                1.775,
+                1.843,
                 252,
-                1.775,
+                1.843,
                 253,
-                0.967,
+                1.843,
                 254,
-                0.967,
+                1.843,
                 255,
-                0.967,
+                0.964,
                 256,
-                0.967
+                0.964,
+                257,
+                0.964,
+                258,
+                0.964
             ]
         ],
         [
             "title//documentation/skyblock/insel/",
             [
-                71,
-                0.539
+                73,
+                0.736
             ]
         ],
         [
             "text//documentation/skyblock/insel/",
             [
-                71,
-                0.905
+                73,
+                1.162
             ]
         ],
         [
             "title//documentation/skyblock/befehle/",
             [
-                257,
-                0.875
+                259,
+                1.094
             ]
         ],
         [
             "text//documentation/skyblock/befehle/",
             [
-                257,
-                1.448,
-                258,
-                2.292,
                 259,
-                2.292
+                1.695,
+                260,
+                2.536,
+                261,
+                2.536
             ]
         ]
     ],
@@ -646,7 +664,7 @@
         [
             "\"upgrades\"",
             {
-                "_index": 95,
+                "_index": 97,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -663,7 +681,7 @@
         [
             "(shift+rechts",
             {
-                "_index": 224,
+                "_index": 226,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -680,7 +698,7 @@
         [
             "(sofern",
             {
-                "_index": 46,
+                "_index": 48,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -697,7 +715,7 @@
         [
             "(weizen,",
             {
-                "_index": 250,
+                "_index": 252,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -739,7 +757,7 @@
         [
             "/",
             {
-                "_index": 215,
+                "_index": 217,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -768,7 +786,7 @@
         [
             "0",
             {
-                "_index": 245,
+                "_index": 247,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -785,7 +803,7 @@
         [
             "1",
             {
-                "_index": 240,
+                "_index": 242,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -806,7 +824,7 @@
         [
             "1.000€",
             {
-                "_index": 244,
+                "_index": 246,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -823,7 +841,7 @@
         [
             "10",
             {
-                "_index": 254,
+                "_index": 256,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -840,7 +858,7 @@
         [
             "15",
             {
-                "_index": 248,
+                "_index": 250,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -857,7 +875,7 @@
         [
             "1x",
             {
-                "_index": 237,
+                "_index": 239,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -882,7 +900,7 @@
         [
             "2",
             {
-                "_index": 183,
+                "_index": 185,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -907,7 +925,7 @@
         [
             "2.000€",
             {
-                "_index": 247,
+                "_index": 249,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -924,7 +942,7 @@
         [
             "2.500€",
             {
-                "_index": 253,
+                "_index": 255,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -941,7 +959,7 @@
         [
             "20.000€",
             {
-                "_index": 140,
+                "_index": 142,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -962,7 +980,7 @@
         [
             "250€",
             {
-                "_index": 232,
+                "_index": 234,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -979,7 +997,7 @@
         [
             "3.000€",
             {
-                "_index": 255,
+                "_index": 257,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -996,7 +1014,7 @@
         [
             "30.000€",
             {
-                "_index": 108,
+                "_index": 110,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1025,7 +1043,7 @@
         [
             "40.000€",
             {
-                "_index": 168,
+                "_index": 170,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1042,7 +1060,7 @@
         [
             "4x",
             {
-                "_index": 235,
+                "_index": 237,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1067,7 +1085,7 @@
         [
             "5",
             {
-                "_index": 256,
+                "_index": 258,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1084,7 +1102,7 @@
         [
             "500€",
             {
-                "_index": 239,
+                "_index": 241,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1101,7 +1119,7 @@
         [
             ":",
             {
-                "_index": 107,
+                "_index": 109,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1122,7 +1140,7 @@
         [
             "ab",
             {
-                "_index": 146,
+                "_index": 148,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1143,7 +1161,7 @@
         [
             "aktuell",
             {
-                "_index": 182,
+                "_index": 184,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1160,7 +1178,7 @@
         [
             "alle",
             {
-                "_index": 101,
+                "_index": 103,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1181,7 +1199,7 @@
         [
             "als",
             {
-                "_index": 222,
+                "_index": 224,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1198,7 +1216,7 @@
         [
             "am",
             {
-                "_index": 211,
+                "_index": 213,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1215,7 +1233,7 @@
         [
             "an",
             {
-                "_index": 53,
+                "_index": 55,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1236,7 +1254,7 @@
         [
             "an.",
             {
-                "_index": 185,
+                "_index": 187,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1253,7 +1271,7 @@
         [
             "angelrute",
             {
-                "_index": 142,
+                "_index": 144,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1270,7 +1288,7 @@
         [
             "angelt",
             {
-                "_index": 138,
+                "_index": 140,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1287,7 +1305,7 @@
         [
             "arbeiten",
             {
-                "_index": 43,
+                "_index": 45,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1304,7 +1322,7 @@
         [
             "arbeitet",
             {
-                "_index": 90,
+                "_index": 92,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1321,7 +1339,7 @@
         [
             "auch",
             {
-                "_index": 80,
+                "_index": 82,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1399,7 +1417,7 @@
         [
             "aus",
             {
-                "_index": 165,
+                "_index": 167,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1416,7 +1434,7 @@
         [
             "automatisch",
             {
-                "_index": 39,
+                "_index": 41,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1469,7 +1487,7 @@
         [
             "automatisiert",
             {
-                "_index": 207,
+                "_index": 209,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1486,7 +1504,7 @@
         [
             "baut",
             {
-                "_index": 144,
+                "_index": 146,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1507,7 +1525,7 @@
         [
             "beachte,",
             {
-                "_index": 218,
+                "_index": 220,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1524,7 +1542,7 @@
         [
             "befehle",
             {
-                "_index": 257,
+                "_index": 259,
                 "title": {
                     "/documentation/skyblock/befehle/": {
                         "position": [
@@ -1550,7 +1568,7 @@
         [
             "beide",
             {
-                "_index": 202,
+                "_index": 204,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1567,7 +1585,7 @@
         [
             "bieten",
             {
-                "_index": 181,
+                "_index": 183,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1584,7 +1602,7 @@
         [
             "bist)",
             {
-                "_index": 48,
+                "_index": 50,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1601,7 +1619,7 @@
         [
             "bitte",
             {
-                "_index": 217,
+                "_index": 219,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1618,7 +1636,7 @@
         [
             "browser",
             {
-                "_index": 117,
+                "_index": 119,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1639,7 +1657,7 @@
         [
             "bruchstein",
             {
-                "_index": 236,
+                "_index": 238,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1664,7 +1682,7 @@
         [
             "bäume",
             {
-                "_index": 145,
+                "_index": 147,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1681,7 +1699,7 @@
         [
             "craften",
             {
-                "_index": 221,
+                "_index": 223,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1698,7 +1716,7 @@
         [
             "crafting",
             {
-                "_index": 214,
+                "_index": 216,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1715,7 +1733,7 @@
         [
             "dafür",
             {
-                "_index": 67,
+                "_index": 69,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1732,7 +1750,7 @@
         [
             "daher",
             {
-                "_index": 226,
+                "_index": 228,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1749,7 +1767,7 @@
         [
             "das",
             {
-                "_index": 84,
+                "_index": 86,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1766,7 +1784,7 @@
         [
             "dass",
             {
-                "_index": 219,
+                "_index": 221,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1783,7 +1801,7 @@
         [
             "deine",
             {
-                "_index": 77,
+                "_index": 79,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1804,7 +1822,7 @@
         [
             "deinen",
             {
-                "_index": 68,
+                "_index": 70,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1821,7 +1839,7 @@
         [
             "deiner",
             {
-                "_index": 70,
+                "_index": 72,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1838,7 +1856,7 @@
         [
             "delay:",
             {
-                "_index": 233,
+                "_index": 235,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -1892,7 +1910,7 @@
         [
             "der",
             {
-                "_index": 50,
+                "_index": 52,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1921,7 +1939,7 @@
         [
             "desto",
             {
-                "_index": 88,
+                "_index": 90,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1942,7 +1960,7 @@
         [
             "diamantaxt",
             {
-                "_index": 152,
+                "_index": 154,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1959,7 +1977,7 @@
         [
             "diamanthacke",
             {
-                "_index": 135,
+                "_index": 137,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1976,7 +1994,7 @@
         [
             "diamantschaufel",
             {
-                "_index": 114,
+                "_index": 116,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -1993,7 +2011,7 @@
         [
             "diamantschwert",
             {
-                "_index": 178,
+                "_index": 180,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2010,7 +2028,7 @@
         [
             "diamantspitzhacke",
             {
-                "_index": 161,
+                "_index": 163,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2056,7 +2074,7 @@
         [
             "die",
             {
-                "_index": 37,
+                "_index": 39,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2089,7 +2107,7 @@
         [
             "diese",
             {
-                "_index": 156,
+                "_index": 158,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2106,7 +2124,7 @@
         [
             "dieses",
             {
-                "_index": 119,
+                "_index": 121,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2210,7 +2228,7 @@
         [
             "effizienter",
             {
-                "_index": 89,
+                "_index": 91,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2252,7 +2270,7 @@
         [
             "ein.",
             {
-                "_index": 105,
+                "_index": 107,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2277,7 +2295,7 @@
         [
             "eine",
             {
-                "_index": 49,
+                "_index": 51,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2302,7 +2320,7 @@
         [
             "einer",
             {
-                "_index": 166,
+                "_index": 168,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2319,7 +2337,7 @@
         [
             "eines",
             {
-                "_index": 86,
+                "_index": 88,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2353,7 +2371,7 @@
         [
             "eisenaxt",
             {
-                "_index": 151,
+                "_index": 153,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2370,7 +2388,7 @@
         [
             "eisenhacke",
             {
-                "_index": 134,
+                "_index": 136,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2387,7 +2405,7 @@
         [
             "eisenschaufel",
             {
-                "_index": 113,
+                "_index": 115,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2404,7 +2422,7 @@
         [
             "eisenschwert",
             {
-                "_index": 177,
+                "_index": 179,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2421,7 +2439,7 @@
         [
             "eisenspitzhacke",
             {
-                "_index": 160,
+                "_index": 162,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2438,7 +2456,7 @@
         [
             "er",
             {
-                "_index": 91,
+                "_index": 93,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2455,7 +2473,7 @@
         [
             "er.",
             {
-                "_index": 94,
+                "_index": 96,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2472,7 +2490,7 @@
         [
             "erhältlich",
             {
-                "_index": 210,
+                "_index": 212,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -2489,7 +2507,7 @@
         [
             "erntet",
             {
-                "_index": 125,
+                "_index": 127,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2506,7 +2524,7 @@
         [
             "erze,",
             {
-                "_index": 57,
+                "_index": 59,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2523,7 +2541,7 @@
         [
             "essen.",
             {
-                "_index": 201,
+                "_index": 203,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -2540,7 +2558,7 @@
         [
             "farm",
             {
-                "_index": 193,
+                "_index": 195,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -2557,7 +2575,7 @@
         [
             "farmen",
             {
-                "_index": 64,
+                "_index": 66,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2574,7 +2592,7 @@
         [
             "farmer",
             {
-                "_index": 123,
+                "_index": 125,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2591,7 +2609,7 @@
         [
             "farmland",
             {
-                "_index": 249,
+                "_index": 251,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -2616,7 +2634,7 @@
         [
             "felder",
             {
-                "_index": 126,
+                "_index": 128,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2633,7 +2651,7 @@
         [
             "fische.",
             {
-                "_index": 139,
+                "_index": 141,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2650,7 +2668,7 @@
         [
             "fischer",
             {
-                "_index": 137,
+                "_index": 139,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2684,7 +2702,7 @@
         [
             "für",
             {
-                "_index": 40,
+                "_index": 42,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2730,7 +2748,7 @@
         [
             "gebe",
             {
-                "_index": 72,
+                "_index": 74,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2747,7 +2765,7 @@
         [
             "gen",
             {
-                "_index": 230,
+                "_index": 232,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -2776,7 +2794,7 @@
         [
             "generator",
             {
-                "_index": 187,
+                "_index": 189,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -2821,7 +2839,7 @@
         [
             "generatoren",
             {
-                "_index": 180,
+                "_index": 182,
                 "title": {
                     "/documentation/skyblock/generatoren/": {
                         "position": [
@@ -2863,7 +2881,7 @@
         [
             "generiert",
             {
-                "_index": 188,
+                "_index": 190,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -2925,7 +2943,7 @@
         [
             "geschwindigkeit.",
             {
-                "_index": 192,
+                "_index": 194,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -2942,7 +2960,7 @@
         [
             "goldaxt",
             {
-                "_index": 150,
+                "_index": 152,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2959,7 +2977,7 @@
         [
             "goldhacke",
             {
-                "_index": 133,
+                "_index": 135,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2976,7 +2994,7 @@
         [
             "goldschaufel",
             {
-                "_index": 112,
+                "_index": 114,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -2993,7 +3011,7 @@
         [
             "goldschwert",
             {
-                "_index": 176,
+                "_index": 178,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3010,7 +3028,7 @@
         [
             "goldspitzhacke",
             {
-                "_index": 159,
+                "_index": 161,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3027,7 +3045,7 @@
         [
             "gute",
             {
-                "_index": 199,
+                "_index": 201,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3061,7 +3079,7 @@
         [
             "helfer",
             {
-                "_index": 79,
+                "_index": 81,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3078,7 +3096,7 @@
         [
             "helfer,",
             {
-                "_index": 36,
+                "_index": 38,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3095,7 +3113,7 @@
         [
             "herum",
             {
-                "_index": 104,
+                "_index": 106,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3120,7 +3138,7 @@
         [
             "herum.",
             {
-                "_index": 173,
+                "_index": 175,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3171,7 +3189,7 @@
         [
             "holz,",
             {
-                "_index": 56,
+                "_index": 58,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3188,7 +3206,7 @@
         [
             "holzaxt",
             {
-                "_index": 148,
+                "_index": 150,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3205,7 +3223,7 @@
         [
             "holzfäller",
             {
-                "_index": 143,
+                "_index": 145,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3222,7 +3240,7 @@
         [
             "holzhacke",
             {
-                "_index": 131,
+                "_index": 133,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3239,7 +3257,7 @@
         [
             "holzschaufel",
             {
-                "_index": 110,
+                "_index": 112,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3256,7 +3274,7 @@
         [
             "holzschwert",
             {
-                "_index": 174,
+                "_index": 176,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3273,7 +3291,7 @@
         [
             "holzspitzhacke",
             {
-                "_index": 157,
+                "_index": 159,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3290,7 +3308,7 @@
         [
             "höher",
             {
-                "_index": 83,
+                "_index": 85,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3307,7 +3325,7 @@
         [
             "i",
             {
-                "_index": 231,
+                "_index": 233,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3328,7 +3346,7 @@
         [
             "ihm",
             {
-                "_index": 73,
+                "_index": 75,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3345,7 +3363,7 @@
         [
             "ihr",
             {
-                "_index": 116,
+                "_index": 118,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3366,7 +3384,7 @@
         [
             "ii",
             {
-                "_index": 238,
+                "_index": 240,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3387,7 +3405,7 @@
         [
             "iii",
             {
-                "_index": 243,
+                "_index": 245,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3441,7 +3459,7 @@
         [
             "insel",
             {
-                "_index": 71,
+                "_index": 73,
                 "title": {
                     "/documentation/skyblock/insel/": {
                         "position": [
@@ -3479,7 +3497,7 @@
         [
             "ist",
             {
-                "_index": 198,
+                "_index": 200,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3496,7 +3514,7 @@
         [
             "ist,",
             {
-                "_index": 87,
+                "_index": 89,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3513,7 +3531,7 @@
         [
             "items",
             {
-                "_index": 102,
+                "_index": 104,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3534,7 +3552,7 @@
         [
             "je",
             {
-                "_index": 82,
+                "_index": 84,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3559,7 +3577,7 @@
         [
             "kannst",
             {
-                "_index": 76,
+                "_index": 78,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3588,7 +3606,7 @@
         [
             "karotten",
             {
-                "_index": 197,
+                "_index": 199,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3605,7 +3623,7 @@
         [
             "karotten)",
             {
-                "_index": 252,
+                "_index": 254,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3630,7 +3648,7 @@
         [
             "kartoffeln",
             {
-                "_index": 196,
+                "_index": 198,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3647,7 +3665,7 @@
         [
             "kartoffeln,",
             {
-                "_index": 251,
+                "_index": 253,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3672,7 +3690,7 @@
         [
             "kaufen",
             {
-                "_index": 97,
+                "_index": 99,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3697,7 +3715,7 @@
         [
             "killt",
             {
-                "_index": 171,
+                "_index": 173,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3714,7 +3732,7 @@
         [
             "kiste.",
             {
-                "_index": 167,
+                "_index": 169,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3731,7 +3749,7 @@
         [
             "kleine",
             {
-                "_index": 35,
+                "_index": 37,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3748,7 +3766,7 @@
         [
             "kleinen",
             {
-                "_index": 78,
+                "_index": 80,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3765,7 +3783,7 @@
         [
             "klick)",
             {
-                "_index": 225,
+                "_index": 227,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3782,7 +3800,7 @@
         [
             "kommen,",
             {
-                "_index": 60,
+                "_index": 62,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3799,7 +3817,7 @@
         [
             "können",
             {
-                "_index": 203,
+                "_index": 205,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3816,7 +3834,7 @@
         [
             "level",
             {
-                "_index": 85,
+                "_index": 87,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3833,7 +3851,7 @@
         [
             "level,",
             {
-                "_index": 190,
+                "_index": 192,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3850,7 +3868,7 @@
         [
             "lvl.",
             {
-                "_index": 242,
+                "_index": 244,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -3871,7 +3889,7 @@
         [
             "materialien",
             {
-                "_index": 54,
+                "_index": 56,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3888,7 +3906,7 @@
         [
             "mehr",
             {
-                "_index": 92,
+                "_index": 94,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3905,7 +3923,7 @@
         [
             "methoden,",
             {
-                "_index": 52,
+                "_index": 54,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3922,7 +3940,7 @@
         [
             "miner",
             {
-                "_index": 154,
+                "_index": 156,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3939,7 +3957,7 @@
         [
             "minion",
             {
-                "_index": 69,
+                "_index": 71,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -3956,7 +3974,7 @@
         [
             "minions",
             {
-                "_index": 33,
+                "_index": 35,
                 "title": {
                     "/documentation/skyblock/minions/": {
                         "position": [
@@ -4002,7 +4020,7 @@
         [
             "mithilfe",
             {
-                "_index": 205,
+                "_index": 207,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4019,7 +4037,7 @@
         [
             "mobs/tiere",
             {
-                "_index": 172,
+                "_index": 174,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4036,7 +4054,7 @@
         [
             "musst.",
             {
-                "_index": 229,
+                "_index": 231,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4053,7 +4071,7 @@
         [
             "müssen.",
             {
-                "_index": 65,
+                "_index": 67,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4070,7 +4088,7 @@
         [
             "nach",
             {
-                "_index": 189,
+                "_index": 191,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4087,7 +4105,7 @@
         [
             "nahrung",
             {
-                "_index": 58,
+                "_index": 60,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4104,7 +4122,7 @@
         [
             "natürlich",
             {
-                "_index": 204,
+                "_index": 206,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4121,7 +4139,7 @@
         [
             "netheriteaxt",
             {
-                "_index": 153,
+                "_index": 155,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4138,7 +4156,7 @@
         [
             "netheritehacke",
             {
-                "_index": 136,
+                "_index": 138,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4155,7 +4173,7 @@
         [
             "netheriteschaufel",
             {
-                "_index": 115,
+                "_index": 117,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4172,7 +4190,7 @@
         [
             "netheriteschwert",
             {
-                "_index": 179,
+                "_index": 181,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4189,7 +4207,7 @@
         [
             "netheritespitzhacke",
             {
-                "_index": 162,
+                "_index": 164,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4223,7 +4241,7 @@
         [
             "neue",
             {
-                "_index": 228,
+                "_index": 230,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4240,7 +4258,7 @@
         [
             "new",
             {
-                "_index": 258,
+                "_index": 260,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/befehle/": {
@@ -4257,7 +4275,7 @@
         [
             "nicht",
             {
-                "_index": 227,
+                "_index": 229,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4274,7 +4292,7 @@
         [
             "nicht.",
             {
-                "_index": 122,
+                "_index": 124,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4295,7 +4313,7 @@
         [
             "npc",
             {
-                "_index": 96,
+                "_index": 98,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4337,7 +4355,7 @@
         [
             "ohne",
             {
-                "_index": 61,
+                "_index": 63,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4354,7 +4372,7 @@
         [
             "online",
             {
-                "_index": 47,
+                "_index": 49,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4371,7 +4389,7 @@
         [
             "passendes",
             {
-                "_index": 74,
+                "_index": 76,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4388,7 +4406,7 @@
         [
             "pflanzen",
             {
-                "_index": 246,
+                "_index": 248,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4429,7 +4447,7 @@
         [
             "pflanzt",
             {
-                "_index": 124,
+                "_index": 126,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4446,7 +4464,7 @@
         [
             "platziere",
             {
-                "_index": 66,
+                "_index": 68,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4463,7 +4481,7 @@
         [
             "preis",
             {
-                "_index": 106,
+                "_index": 108,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4480,7 +4498,7 @@
         [
             "preis:",
             {
-                "_index": 129,
+                "_index": 131,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4545,7 +4563,7 @@
         [
             "produziert",
             {
-                "_index": 93,
+                "_index": 95,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4562,7 +4580,7 @@
         [
             "quelle",
             {
-                "_index": 200,
+                "_index": 202,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4579,7 +4597,7 @@
         [
             "radius.",
             {
-                "_index": 128,
+                "_index": 130,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4594,9 +4612,35 @@
             }
         ],
         [
+            "release",
+            {
+                "_index": 34,
+                "title": {
+                    "/documentation/minecraft-changelog/v1-0-release/": {
+                        "position": [
+                            [
+                                5,
+                                7
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/documentation/minecraft-changelog/v1-0-release/": {
+                        "position": [
+                            [
+                                5,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "ressourcen",
             {
-                "_index": 38,
+                "_index": 40,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4617,7 +4661,7 @@
         [
             "rund",
             {
-                "_index": 44,
+                "_index": 46,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4634,7 +4678,7 @@
         [
             "sammeln.",
             {
-                "_index": 41,
+                "_index": 43,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4651,7 +4695,7 @@
         [
             "sammelt",
             {
-                "_index": 100,
+                "_index": 102,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4676,7 +4720,7 @@
         [
             "sammler",
             {
-                "_index": 99,
+                "_index": 101,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4710,7 +4754,7 @@
         [
             "seinem",
             {
-                "_index": 127,
+                "_index": 129,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4727,7 +4771,7 @@
         [
             "sekunde",
             {
-                "_index": 241,
+                "_index": 243,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4744,7 +4788,7 @@
         [
             "sekunden",
             {
-                "_index": 234,
+                "_index": 236,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4777,7 +4821,7 @@
         [
             "selbst",
             {
-                "_index": 62,
+                "_index": 64,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4794,7 +4838,7 @@
         [
             "sich",
             {
-                "_index": 103,
+                "_index": 105,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4823,7 +4867,7 @@
         [
             "sie",
             {
-                "_index": 42,
+                "_index": 44,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4840,7 +4884,7 @@
         [
             "sind",
             {
-                "_index": 34,
+                "_index": 36,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4861,7 +4905,7 @@
         [
             "skyblock",
             {
-                "_index": 212,
+                "_index": 214,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4878,7 +4922,7 @@
         [
             "slayer",
             {
-                "_index": 170,
+                "_index": 172,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -4912,7 +4956,7 @@
         [
             "sowohl",
             {
-                "_index": 220,
+                "_index": 222,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4929,7 +4973,7 @@
         [
             "spawn",
             {
-                "_index": 213,
+                "_index": 215,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -4963,7 +5007,7 @@
         [
             "stein",
             {
-                "_index": 186,
+                "_index": 188,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5024,7 +5068,7 @@
         [
             "steinaxt",
             {
-                "_index": 149,
+                "_index": 151,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5041,7 +5085,7 @@
         [
             "steine/erze",
             {
-                "_index": 155,
+                "_index": 157,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5058,7 +5102,7 @@
         [
             "steinhacke",
             {
-                "_index": 132,
+                "_index": 134,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5075,7 +5119,7 @@
         [
             "steinschaufel",
             {
-                "_index": 111,
+                "_index": 113,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5092,7 +5136,7 @@
         [
             "steinschwert",
             {
-                "_index": 175,
+                "_index": 177,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5109,7 +5153,7 @@
         [
             "steinspitzhacke",
             {
-                "_index": 158,
+                "_index": 160,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5126,7 +5170,7 @@
         [
             "stämme",
             {
-                "_index": 147,
+                "_index": 149,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5143,7 +5187,7 @@
         [
             "ständig",
             {
-                "_index": 63,
+                "_index": 65,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5168,7 +5212,7 @@
         [
             "tab",
             {
-                "_index": 259,
+                "_index": 261,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/befehle/": {
@@ -5185,7 +5229,7 @@
         [
             "tag",
             {
-                "_index": 121,
+                "_index": 123,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5240,7 +5284,7 @@
         [
             "tool.",
             {
-                "_index": 75,
+                "_index": 77,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5257,7 +5301,7 @@
         [
             "tool:",
             {
-                "_index": 141,
+                "_index": 143,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5278,7 +5322,7 @@
         [
             "tools",
             {
-                "_index": 109,
+                "_index": 111,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5295,7 +5339,7 @@
         [
             "tools:",
             {
-                "_index": 130,
+                "_index": 132,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5324,7 +5368,7 @@
         [
             "truhe",
             {
-                "_index": 169,
+                "_index": 171,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5341,7 +5385,7 @@
         [
             "uhr",
             {
-                "_index": 45,
+                "_index": 47,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5501,7 +5545,7 @@
         [
             "unterstützt",
             {
-                "_index": 118,
+                "_index": 120,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5522,7 +5566,7 @@
         [
             "upgraden",
             {
-                "_index": 223,
+                "_index": 225,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5539,7 +5583,7 @@
         [
             "upgraden!",
             {
-                "_index": 81,
+                "_index": 83,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5556,7 +5600,7 @@
         [
             "upgrades",
             {
-                "_index": 216,
+                "_index": 218,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5571,9 +5615,35 @@
             }
         ],
         [
+            "v1.0",
+            {
+                "_index": 33,
+                "title": {
+                    "/documentation/minecraft-changelog/v1-0-release/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/documentation/minecraft-changelog/v1-0-release/": {
+                        "position": [
+                            [
+                                0,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "verbessert",
             {
-                "_index": 208,
+                "_index": 210,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5590,7 +5660,7 @@
         [
             "verkauft",
             {
-                "_index": 164,
+                "_index": 166,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5607,7 +5677,7 @@
         [
             "verkäufer",
             {
-                "_index": 163,
+                "_index": 165,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5624,7 +5694,7 @@
         [
             "verschiedene",
             {
-                "_index": 184,
+                "_index": 186,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5641,7 +5711,7 @@
         [
             "verschiedener",
             {
-                "_index": 191,
+                "_index": 193,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5658,7 +5728,7 @@
         [
             "verwenden.",
             {
-                "_index": 98,
+                "_index": 100,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5675,7 +5745,7 @@
         [
             "video",
             {
-                "_index": 120,
+                "_index": 122,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5713,7 +5783,7 @@
         [
             "von",
             {
-                "_index": 206,
+                "_index": 208,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5730,7 +5800,7 @@
         [
             "weizen,",
             {
-                "_index": 195,
+                "_index": 197,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5747,7 +5817,7 @@
         [
             "welcher",
             {
-                "_index": 194,
+                "_index": 196,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5764,7 +5834,7 @@
         [
             "werden.",
             {
-                "_index": 209,
+                "_index": 211,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/generatoren/": {
@@ -5781,7 +5851,7 @@
         [
             "wichtigsten",
             {
-                "_index": 51,
+                "_index": 53,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5798,7 +5868,7 @@
         [
             "wie",
             {
-                "_index": 55,
+                "_index": 57,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
@@ -5921,7 +5991,7 @@
         [
             "zu",
             {
-                "_index": 59,
+                "_index": 61,
                 "title": {},
                 "text": {
                     "/documentation/skyblock/minions/": {
