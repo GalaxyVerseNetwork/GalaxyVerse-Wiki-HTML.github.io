@@ -2048,7 +2048,7 @@
             ]
         ],
         [
-            "title//documentation/minecraft-changelog/v1-0-release/",
+            "title//documentation/netzwerk-changelog/v1-0-release/",
             [
                 684,
                 1.866,
@@ -2057,7 +2057,7 @@
             ]
         ],
         [
-            "text//documentation/minecraft-changelog/v1-0-release/",
+            "text//documentation/netzwerk-changelog/v1-0-release/",
             [
                 24,
                 2.415,
@@ -4151,7 +4151,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 256,
@@ -5391,7 +5391,7 @@
                 "_index": 692,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 87,
@@ -5534,7 +5534,7 @@
                 "_index": 689,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 43,
@@ -6008,7 +6008,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 192,
@@ -6250,7 +6250,7 @@
                 "_index": 691,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 82,
@@ -6468,7 +6468,7 @@
                 "_index": 690,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 55,
@@ -7710,7 +7710,7 @@
                 "_index": 698,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 231,
@@ -8842,7 +8842,7 @@
                 "_index": 704,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 311,
@@ -9409,7 +9409,7 @@
                 "_index": 696,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 151,
@@ -10003,7 +10003,7 @@
                 "_index": 703,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 296,
@@ -10605,7 +10605,7 @@
                 "_index": 697,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 180,
@@ -11628,7 +11628,7 @@
                 "_index": 701,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 249,
@@ -12056,7 +12056,7 @@
                 "_index": 695,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 117,
@@ -12411,7 +12411,7 @@
                 "_index": 688,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 27,
@@ -12694,7 +12694,7 @@
                 "_index": 686,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 13,
@@ -12898,7 +12898,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 124,
@@ -13251,7 +13251,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 140,
@@ -13420,7 +13420,7 @@
                 "_index": 700,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 243,
@@ -13825,7 +13825,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 200,
@@ -14116,7 +14116,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 258,
@@ -14281,7 +14281,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 266,
@@ -14339,7 +14339,7 @@
             {
                 "_index": 685,
                 "title": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 5,
@@ -14349,7 +14349,7 @@
                     }
                 },
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 5,
@@ -14632,7 +14632,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 290,
@@ -14938,7 +14938,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 174,
@@ -15169,7 +15169,7 @@
                 "_index": 693,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 95,
@@ -15275,7 +15275,7 @@
                 "_index": 702,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 271,
@@ -15449,7 +15449,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 166,
@@ -15516,7 +15516,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 283,
@@ -15848,7 +15848,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 110,
@@ -16278,7 +16278,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 34,
@@ -16722,7 +16722,7 @@
             {
                 "_index": 684,
                 "title": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 0,
@@ -16732,7 +16732,7 @@
                     }
                 },
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 0,
@@ -17327,7 +17327,7 @@
                 "_index": 694,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 105,
@@ -17638,7 +17638,7 @@
                             ]
                         ]
                     },
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 306,
@@ -18326,7 +18326,7 @@
                 "_index": 687,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 24,
@@ -18360,7 +18360,7 @@
                 "_index": 699,
                 "title": {},
                 "text": {
-                    "/documentation/minecraft-changelog/v1-0-release/": {
+                    "/documentation/netzwerk-changelog/v1-0-release/": {
                         "position": [
                             [
                                 240,

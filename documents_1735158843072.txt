@@ -51,7 +51,7 @@
         "title": "Spieler Shops 🛍",
         "text": "Spieler Shops 🛍 Durch unsere  ,,Spieler Shops\"  kannst Du ganz einfach Items auf deiner Insel  verkaufen  oder auch  ankaufen . Platziere dafür eine Truhe/Barrel und erstelle deinen ersten Shop. Befehl Beschreibung /ecs create <Kauf Preis> <Verkaufs Preis> Schaue auf eine Truhe/Barrel und nutze den Befehl zum erstellen deines Shops. /ecs settings Schaue auf eine Truhe/Barrel und nutze den Befehl zum bearbeiten deines Shops."
     },
-    "/documentation/minecraft-changelog/v1-0-release/": {
+    "/documentation/netzwerk-changelog/v1-0-release/": {
         "title": "V1.0 Release",
         "text": "V1.0 Release Minecraft: 🎮 Lobby: Tägliche Belohnungen Cosmetics/Gadgets/Glow/... Bugs behoben Skyblock: Vote System Kisten mit Belohnungen Nether/End freigeschaltet Spieler Shops hinzugefügt Booster Perks hinzugefügt Bugs behoben Discord: 💬 Neuer Kanal -> Premium Rang Sonstiges:  Status Seite geupdatet Wiki erstellt"
     }
