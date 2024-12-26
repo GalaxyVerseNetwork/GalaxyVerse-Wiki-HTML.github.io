@@ -11,13 +11,13 @@
         "title": "Die ersten Schritte...",
         "text": "Insel 1 Neu? Erstelle deine erste Insel! Zum erstellen deiner ersten Insel, bewege dich zum Npc vor dir und klicke ihn an. Mit dem Kompass kannst du jederzeit zu deiner Insel zurückkehren oder den Befehl  /is  verwenden. 2 Insel erstellen Klicke auf die Steinspitzhacke und wähle die folgende Insel aus. 3 Fertig! Herzlichen Glückwunsch! Du hast nun deine ganz eigene Insel."
     },
-    "/documentation/insel/insel-einstellungen/": {
-        "title": "Insel Einstellungen",
-        "text": "Sonstiges Insel Panel Mithilfe des  ,,Insel Panels\"  kannst du ganz einfach Dinge wie z.B. das Biom, Einstellungen (Tageszeit, Mobspawning, etc.) oder auch die Mitglieder auf deiner Insel verwalten. Befehl:  /is panel Missionen Insel Missionen Im Insel Panel findest Du einen Bereich namens  ,,Missionen\". Diese kannst du abschließen um neue Items/Geld zu erhalten und um Beispielsweise den Nether & das End freizuschalten. Server-Shop Shop Am Skyblock Spawn findest Du einen Server Shop Npc. Bei diesem kannst Du jederzeit Items kaufen und verkaufen."
-    },
     "/documentation/insel/netherend/": {
         "title": "Nether/End",
         "text": "Nether/End Baue ein Nether/End Portal mit denen Du auf Deine Insel im Nether/End reisen kannst. Die Items dafür kannst Du dir am Skyblock Spawn kaufen."
+    },
+    "/documentation/insel/insel-einstellungen/": {
+        "title": "Weiteres...",
+        "text": "Sonstiges Insel Panel Mithilfe des  ,,Insel Panels\"  kannst du ganz einfach Dinge wie z.B. das Biom, Einstellungen (Tageszeit, Mobspawning, etc.) oder auch die Mitglieder auf deiner Insel verwalten. Befehl:  /is panel Missionen Insel Missionen Im Insel Panel findest Du einen Bereich namens  ,,Missionen\". Diese kannst du abschließen um neue Items/Geld zu erhalten und um Beispielsweise den Nether & das End freizuschalten. Server-Shop Shop Am Skyblock Spawn findest Du einen Server Shop Npc. Bei diesem kannst Du jederzeit Items kaufen und verkaufen. Tägliche Belohnungen Am Skyblock Spawn und in der Lobby kannst Du dir einmal am Tag eine Belohnung abholen"
     },
     "/documentation/skyblock/minions/": {
         "title": "Minions ⛑️",
@@ -33,7 +33,7 @@
     },
     "/documentation/skyblock/befehle/": {
         "title": "Befehle 🤖",
-        "text": "Befehle New Tab"
+        "text": "Befehle Hier findest Du eine Liste aller wichtigen Befehle auf Skyblock. Anstelle von  /island ...  kannst Du auch  /is ...  verwenden. Befehl Beschreibung /island chat ​Verwende diesen Befehl um nur innerhalb deiner Insel zu schreiben. Bitte nutze dies um nicht den öffentlichen Chat voll zu spammen. /island ​Teleportiere dich zu deiner Insel. /island panel ​Öffne das Insel Menü. /island accept <Spieler> / <Insel> Nimm eine Einladung eines Spielers auf eine Insel an. /island balance <Spieler> / <Insel> Überprüfung des Geldes einer Insel. /island ban <Spieler> ​Banne einen Spieler von deiner Insel. /island unban Entbanne einen Spieler von deiner Insel. /island close ​Schließung der Insel für andere Spieler /island open Öffne deine Insel für andere Spieler /island delete ⚠️ Lösche deine Insel, dies kann nicht rückgängig gemacht werden! ⚠️ /island kick <Spieler> Kicke einen Besucher von deiner Insel. /island invite <Spieler> Lade einen Spieler auf deine Insel ein. /island rename <Neuer Inselname> Ändere den Namen deiner Insel. /island rate <Spieler> / <Insel> Bewerte die Insel eines anderen Spielers. /island setteleport Ändere die Teleportposition deiner Insel. /island show <Spieler> / <Insel> Erhalte Informationen über eine Insel. /island transfer <Spieler> Übertrage deine Insel einem anderen Spieler. ⚠️  Nutze diesen Befehl mit bedacht! ⚠️ /island visit <Spieler> / <Insel> Besuche die Insel von einem anderen Spieler."
     },
     "/documentation/skyblock/trade-system/": {
         "title": "Trade System 📥",
